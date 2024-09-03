@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  font-size: 1.4rem;
+}
+
+main, footer {
+  max-width: 65ch;
+  margin-inline: auto;
+}
+
+footer {
+  margin-top: 5rem;
+}
