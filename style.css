@@ -11,3 +11,7 @@ main, footer {
 footer {
   margin-top: 5rem;
 }
+
+.lead {
+  font-size: 1.6rem;
+}
